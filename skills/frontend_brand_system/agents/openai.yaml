@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Brand System"
+  short_description: "Reusable frontend brand and prompt system"
+  default_prompt: "Use $frontend_brand_system to initialize or apply a reusable frontend brand system for this project, starting with an adapter audit and then defining the visual thesis, content plan, and interaction thesis before changing UI code."
