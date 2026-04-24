@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Harness Init"
+  short_description: "Add AGENTS.md and docs harness to a repo"
+  default_prompt: "Use $project-harness-init to inspect this repository and add the default AI-agent harness."

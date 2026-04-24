@@ -1,6 +1,6 @@
 ---
 name: frontend_brand_system
-description: Initialize or apply a reusable frontend prompt system whose default mother style is OpenAI-like: cold-neutral, product-led, restrained, and system-oriented without 1:1 cloning.
+description: "Initialize or apply a reusable frontend prompt system whose default mother style is OpenAI-like: cold-neutral, product-led, restrained, and system-oriented without 1:1 cloning."
 ---
 
 # Frontend Brand System
